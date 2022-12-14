@@ -1,11 +1,11 @@
 # Homework for QA Candidate
 
-## Task #1: write a function E2E automation test
+## Task #1: write a functional E2E automation test
 
 1. Visit [carVertical](https://www.carvertical.com)
 2. In the VIN form, submit `SALLAAA146A396339` VIN
 3. Once precheck has loaded, pick 3-report package
-4. On checkout page, apply `qahomework` voucher
+4. On the checkout page, apply `qahomework` voucher
 5. **Validate that the total price is shown correctly**
 6. Share a link to the repository where we can review the test
 
