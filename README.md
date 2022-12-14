@@ -12,5 +12,5 @@
 ## Task #2: manually test carVertical app
 
 1. Download carVertical’s [iOS](https://apps.apple.com/lt/app/carvertical-check-car-history/id1528834650) or [Android](https://play.google.com/store/apps/details?id=com.cvmobileapp) app
-2. Find at least one bug
-3. Report the bug(s) to us
+2. Find at least one bug and any areas for improvement
+3. Report your findings to us
