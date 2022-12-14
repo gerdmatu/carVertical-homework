@@ -1,0 +1,11 @@
+{
+  "name": "qa-homework",
+  "private": true,
+  "scripts": {
+    "postinstall": "playwright install",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
